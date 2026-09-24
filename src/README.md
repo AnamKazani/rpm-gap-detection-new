@@ -1,1 +1,1 @@
-Add src directory for application code
+Outline planned module structure in src
