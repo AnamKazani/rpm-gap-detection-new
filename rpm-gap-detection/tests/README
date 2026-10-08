@@ -1,0 +1,10 @@
+Unit tests for src/gap_detection.py, written with pytest.
+
+test_gap_detection.py has 21 tests in two groups:
+  TestBlackBox  written from the requirements only (given these inputs,
+                expect this output)
+  TestWhiteBox  written from the code's branches and paths
+
+Every test name starts with its test case ID (S = scoring, I = ingestion,
+Q = queue, L = call log, E = end to end, W = white-box). The tests use an
+in-memory database and a fixed as-of time, so no result depends on the clock.
