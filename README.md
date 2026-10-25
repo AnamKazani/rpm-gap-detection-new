@@ -17,7 +17,7 @@ The final version (0.4.0) is one Python file that uses only the standard library
 3. **Queue and dashboard** serve a ranked call list through a web API, and the server makes sure each nurse sees only their own program.
 4. **Call logging** records each call outcome once, so results can be reviewed and checked for fairness.
 
-![Architecture diagram showing vendor files flowing into ingestion, gap scoring, the queue API and nurse dashboard, with call outcomes saved to a log](design/Unit3.drawio%20(1).png)
+![Architecture diagram showing vendor files flowing into ingestion, gap scoring, the queue API and nurse dashboard, with call outcomes saved to a log](design/architecture-diagram.png)
 
 ## Results
 
