@@ -1,1 +1,6 @@
+Automated tests, written with pytest.
 
+- `test_gap_detection.py`: 21 unit tests (Unit 5)
+- `test_system.py`: 25 integration, system, acceptance, regression and performance tests (Unit 7)
+
+Run from the repository root: `python3 -m pytest -v`
