@@ -34,20 +34,20 @@ The trade-off is slower detection for devices that normally send every three day
 
 ## Deliverables
 
-- [Source code](https://github.com/AnamKazani/rpm-gap-detection/tree/main/src)
-- [Automated tests](https://github.com/AnamKazani/rpm-gap-detection/tree/main/tests)
-- [Design documents and architecture diagram](https://github.com/AnamKazani/rpm-gap-detection/tree/main/design)
-- [Final capstone report](https://github.com/AnamKazani/rpm-gap-detection/tree/main/docs)
-- [Version history](https://github.com/AnamKazani/rpm-gap-detection/blob/main/CHANGELOG.md)
-- [Releases](https://github.com/AnamKazani/rpm-gap-detection/releases)
+- [Source code](https://github.com/AnamKazani/rpm-gap-detection-new/tree/main/src)
+- [Automated tests](https://github.com/AnamKazani/rpm-gap-detection-new/tree/main/tests)
+- [Design documents and architecture diagram](https://github.com/AnamKazani/rpm-gap-detection-new/tree/main/design)
+- [Final capstone report](https://github.com/AnamKazani/rpm-gap-detection-new/tree/main/docs)
+- [Version history](https://github.com/AnamKazani/rpm-gap-detection-new/blob/main/CHANGELOG.md)
+- [Releases](https://github.com/AnamKazani/rpm-gap-detection-new/releases)
 
 ## Run It
 
 You need Python 3.10 or newer. Nothing else has to be installed to run the walkthrough.
 
 ```
-git clone https://github.com/AnamKazani/rpm-gap-detection.git
-cd rpm-gap-detection
+git clone https://github.com/AnamKazani/rpm-gap-detection-new.git
+cd rpm-gap-detection-new
 python3 src/gap_detection.py
 ```
 
