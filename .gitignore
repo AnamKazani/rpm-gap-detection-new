@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+src/vendor_readings.csv
